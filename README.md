@@ -29,5 +29,5 @@ MIT License
 
 ## Author
 Özge Karasu  
-Computer Engineer & MSc AI Candidate  
-Interested in parallel computing, OS-level algorithms,
+
+*Developed as part of coursework at Umeå University, Sweden (2022)*
